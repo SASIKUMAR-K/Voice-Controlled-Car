@@ -1,0 +1,13 @@
+joblib
+pandas
+scikit-learn
+pyserial
+SpeechRecognition
+pyaudio
+vosk
+rich
+keyboard
+matplotlib
+seaborn
+numpy
+pynput
